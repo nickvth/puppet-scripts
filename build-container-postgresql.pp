@@ -1,5 +1,5 @@
-$cont = "postdb2"
-$ip = "192.168.2.216"
+$cont = "postdb4"
+$ip = "192.168.2.218"
 
 Exec { path => [ "/bin/", "/sbin/" , "/usr/bin/", "/usr/sbin/" ] }
 
